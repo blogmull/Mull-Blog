@@ -1,0 +1,40 @@
+baseURL = 'https://blog.mull.lol'
+languageCode = 'en-us'
+title = 'My Main Blog'
+
+
+[markup]
+  # (Optional) To be able to use all Prism plugins, the theme enables unsafe
+  # rendering by default
+  #_merge = "deep"
+
+[build]
+  # Merge build config of the theme
+  _merge = "deep"
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  goToTop = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
