@@ -18,19 +18,20 @@ title = 'My Main Blog'
 
 [params]
   goToTop = true
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
+mainSections = ["foodblog", "reviewblog"]
 
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Review Review"
+    url = "/reviewblog/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Food Review"
+    url = "/foodblog/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
+    name = "About Me"
     url = "/about/"
     weight = 3
 
