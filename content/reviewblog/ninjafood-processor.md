@@ -72,7 +72,7 @@ It was on sale, but based on the performance of it I would think it should have 
 
 Do not buy this item. The price itself and the brand don't bother mas much as dropping 140 dollars to have it work at 20% effort after 2 months. If I would have gotten a year at maybe 80 or 90% usage we would have a different review here.
 
---
+---
 ## Product Links
 
 If you're interested in this product, you can purchase it here:
