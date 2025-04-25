@@ -1,6 +1,6 @@
 ---
 title: "Title of product"
-date: date
+date:
 draft: true
 categories: ["categories1", "categories2"]
 tags: ["tags1", "tags2", "tags3"]

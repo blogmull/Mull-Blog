@@ -1,5 +1,5 @@
 ---
-title: "Ninja Professional XL Food Processor Review"
+title: "Equipment Review: [Ninja Professional XL Food Processor]"
 date: 2024-10-09
 draft: false
 categories: ["Kitchen", "Appliances"]
